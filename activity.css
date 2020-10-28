@@ -1,0 +1,17 @@
+#records {
+    max-height: 250px;
+    overflow: scroll;
+}
+
+.sketching {
+  color: red;
+  
+}
+.drawing {
+    color: orange;
+    
+}
+.painting {
+  color: purple;
+  
+}
